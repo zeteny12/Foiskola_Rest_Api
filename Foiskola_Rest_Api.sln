@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foiskola_Rest_Api", "Foiskola_Rest_Api\Foiskola_Rest_Api.csproj", "{98B36921-79B4-46B0-8650-A896BBE16CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98B36921-79B4-46B0-8650-A896BBE16CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B36921-79B4-46B0-8650-A896BBE16CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B36921-79B4-46B0-8650-A896BBE16CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B36921-79B4-46B0-8650-A896BBE16CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5677093D-E2DB-4857-82E1-050539DCD303}
+	EndGlobalSection
+EndGlobal
